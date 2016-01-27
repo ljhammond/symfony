@@ -1,0 +1,3 @@
+SymfonyWebBundle:
+    resource: "@SymfonyWebBundle/Resources/config/routing.yml"
+    prefix:   /

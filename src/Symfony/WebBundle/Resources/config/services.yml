@@ -1,0 +1,4 @@
+services:
+#    symfony_web.example:
+#        class: Symfony\WebBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+Symfony_Web_Web_index:
+    path:     /
+    defaults: { _controller: SymfonyWebBundle:Web:index }
